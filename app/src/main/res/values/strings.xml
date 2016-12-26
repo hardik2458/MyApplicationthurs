@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">fragmenttoactivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="origin">
+        <item>Bombay</item>
+        <item>Culcutta</item>
+        <item>Surat</item>
+        <item>Ahmedabad</item>
+        <item>Delhi</item>
+
+
+    </string-array>
+    <string-array name="destination">
+        <item>London</item>
+        <item>LA</item>
+        <item>France</item>
+        <item>Austarlia</item>
+        <item>Singapor</item>
+
+
+    </string-array>
+</resources>
